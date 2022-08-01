@@ -1,7 +1,5 @@
 /// <reference types="Cypress" />
 
-//const { get } = require("core-js/core/dict")
-
 describe('Login Page', () => {
 
     it('Login Text Verified', () => {
